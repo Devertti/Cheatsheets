@@ -117,7 +117,7 @@ chmod 4755 programa   # SUID ativado (rwsr-xr-x)
 ## 📚 Resumo Visual de Permissões
 
 ```bash
-Exemplo: drwxr-xr-t 2 root root 4096 Aug  5 12:00 diretorio/
+drwxr-xr-t 2 root root 4096 Aug  5 12:00 diretorio/
 ││││││││││ 
 │└┴┴┴┴┴┴┴┴── Permissões (d = diretório)
  │ │ │ └─── Sticky Bit (t)
