@@ -126,7 +126,6 @@ infocmp
 ```
 
 > **Dica profissional:** Use `tmux` ou `screen` para sessões persistentes em terminais remotos!
-```
 
 ## ✨ Principais Melhorias
 
